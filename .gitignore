@@ -1,0 +1,9 @@
+node_modules
+
+
+
+sequelize model:create --name todo --attributes 'title:string details:string priority:integer'
+
+
+todolist-# ;
+ id |        title         |                      details                       | priority |     created_at      |    completed_at     
